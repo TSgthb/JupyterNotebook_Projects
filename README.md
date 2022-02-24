@@ -5,4 +5,4 @@ This contains following projects:
 
 __1. Projects using Python fundamentals such as lists, dictionaries, functions, classes and modules:__
 * Exploring Hacker News Posts Data
-* Understanding and analyzing the data for App Store and Google Play marketplaces for profitable app profiles
+* App Profile Recommendation Jupyter Notebook

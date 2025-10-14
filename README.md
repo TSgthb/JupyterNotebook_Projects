@@ -1,5 +1,5 @@
 # Data Analysis using Python and Jupyter Notebooks
-__This repository contains projects which have been explored and analyzed using Python and Jupyter Notebooks to provide useful insights. These includes projects which involves usage of basic fundamentals to advance concepts of Python.__
+This repository contains projects which have been explored and analyzed using Python and Jupyter Notebooks to provide useful insights. These includes projects which involves usage of basic fundamentals to advance concepts of Python.
 
 ---
 

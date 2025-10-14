@@ -1,9 +1,9 @@
-# DataScience
-__A repository containing all the projects related to Data Science.__
+# Data Analysis using Python and Jupyter Notebooks
+__This repository contains projects which have been explored and analyzed using Python and Jupyter Notebooks to provide useful insights. These includes projects which involves usage of basic fundamentals to advance concepts of Python.__
 
-This contains following projects:
+---
 
-__1. Projects using Python fundamentals such as lists, dictionaries, functions, classes and modules:__
-* Exploring Hacker News Posts Data
-* App Profile Recommendation Jupyter Notebook
-* Analysing Dataset of Helicopter Prison Escapes
+__1. Projects focusing on Python fundamentals such as lists, dictionaries, functions, classes and modules:__
+* Exploring and analyzing Hacker News (a fictitious news platform) posts data to generate insights.
+* Recommending a profile for launching a new application based on data from Apple's AppStore.
+* Analysing dataset of Helicopter Prison Escapes (from Wikipedia) to predict probable criteria for a successful escape attempt.

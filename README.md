@@ -7,7 +7,7 @@ The repository has been divided into different project categories each focusing 
 2. **Data Exploration and Inferential Analysis**: Focuses on exploring and analyzing datasets to derive different insights and assist in decison-making
 
 ### Data Cleaning and Transformation
-1. Cleaning a movies [dataset](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEMwaFVrTGIyUVo0dFhMY25HTnk3Vl9yTGF2UXxBQ3Jtc0trb3JleXBxTlkyX01adHE0RmhJNmVxVkdCWXFTOHhwMTM1Yy1oZnZkZmVVaFNnejFNSjRzenNiOF9FYUFLeEQtLV9XTnZKaWNPSDl5WGNZaGRYLW42blgzSE93SS12OTRDcEgyaUFWQXBDeHdTdXYyMA&q=https%3A%2F%2Fwww.kaggle.com%2Fdanielgrijalvas%2Fmovies&v=iPYVYBtUTyE) and finding correlations to enable insights
+1. Cleaning a Kaggle movies [dataset](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbEMwaFVrTGIyUVo0dFhMY25HTnk3Vl9yTGF2UXxBQ3Jtc0trb3JleXBxTlkyX01adHE0RmhJNmVxVkdCWXFTOHhwMTM1Yy1oZnZkZmVVaFNnejFNSjRzenNiOF9FYUFLeEQtLV9XTnZKaWNPSDl5WGNZaGRYLW42blgzSE93SS12OTRDcEgyaUFWQXBDeHdTdXYyMA&q=https%3A%2F%2Fwww.kaggle.com%2Fdanielgrijalvas%2Fmovies&v=iPYVYBtUTyE) for investigating correlation and insights
 2. 
 
 ### Exploratory and Inferential Analysis
